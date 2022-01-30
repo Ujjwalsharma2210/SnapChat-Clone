@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2070264462",
+    "project_id": "snapseedandroid",
+    "storage_bucket": "snapseedandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2070264462:android:1c4abd76f86d11da18a7df",
+        "android_client_info": {
+          "package_name": "com.example.snapsend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2070264462-0t9b6eac4f9kaud4bpbr851lp8rtmvcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0-Hn9YjioCB3CniE58ZRLaGExUN2mmtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2070264462-0t9b6eac4f9kaud4bpbr851lp8rtmvcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
